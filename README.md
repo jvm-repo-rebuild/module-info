@@ -37,3 +37,9 @@ OpenJDK 64-Bit Server VM (build 21-ea+31-2444, mixed mode, sharing)
     #0
 
 ```
+
+Tracking
+--------
+
+- Maven: [MJAR-295](https://issues.apache.org/jira/browse/MJAR-295)
+- JDK: issue to be opened
